@@ -8,3 +8,7 @@ name = "Formalization"
 [[lean_exe]]
 name = "formalization"
 root = "Main"
+
+[[lean_exe]]
+name = "experiments"
+root = "Experiments"
